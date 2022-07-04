@@ -17,3 +17,7 @@ demo:  https://jhs97.github.io/animal-info/
 
 
 ![animal-info preview](https://user-images.githubusercontent.com/105402450/176827813-78eec6cd-6be9-4a5a-99b1-d9f244fae1db.JPG)
+
+
+* fetch의 주소가 선생님의 데이터라 사진은 안뜸<br>
+* 고양이와 새는 왜 안뜨는지 모르겠음....쌤꺼로 한건 뜸.
